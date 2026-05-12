@@ -14,6 +14,9 @@
       <img src="https://img.shields.io/badge/Location-Tenggarong,%20Kukar-E81123?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps">
     </a>
   </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SMKN1-Tenggarong&color=0078D4&style=for-the-badge&label=ORGANIZATION+VIEWS" alt="Visitors">
+  </p>
 
 </div>
 
