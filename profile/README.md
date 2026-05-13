@@ -1,7 +1,7 @@
 <div align="center">
 
   # SMK Negeri 1 Tenggarong
-  ### *Building the Future through Digital Collaboration*
+  ### *Empowering Students through Digital Innovation & Open Source Collaboration*
 
   <p align="center">
     <a href="http://smkn1tenggarong.sch.id">
@@ -14,15 +14,17 @@
       <img src="https://img.shields.io/badge/Location-Tenggarong,%20Kukar-E81123?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps">
     </a>
   </p>
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SMKN1-Tenggarong&color=0078D4&style=for-the-badge&label=ORGANIZATION+VIEWS" alt="Visitors">
+    <img src="https://img.shields.io/github/orgs/followers/SMKN1-Tenggarong?style=for-the-badge&label=Followers&color=6e5494" alt="Followers">
   </p>
 
 </div>
 
-<br/>
+---
 
-## Kolaborasi Digital Lintas Generasi
+## Overview: Kolaborasi Digital Lintas Generasi
 
 Organisasi ini merupakan wadah inovasi yang diinisiasi oleh **[Luvi Aprilyansyah Gabriel](https://github.com/leapwithluvi)** (leapwithluvi) untuk memfasilitasi kolaborasi digital siswa **SMK Negeri 1 Tenggarong**. 
 
@@ -30,12 +32,16 @@ Meskipun bermula dari sebuah inisiasi personal, ekosistem ini dibangun untuk men
 
 <br/>
 
+## Technology Stack & Expertise
+
+Kami mengintegrasikan dua pilar utama teknologi informasi untuk membangun solusi yang scalable dan reliable.
+
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
         <h3>PPLG (Software & Apps)</h3>
-        <p><i>Full-stack Development & Modern Logic</i></p>
+        <p><i>Building modern applications with top-tier logic.</i></p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
@@ -54,8 +60,8 @@ Meskipun bermula dari sebuah inisiasi personal, ekosistem ini dibangun untuk men
       </td>
       <td width="50%" align="center" valign="top">
         <h3>TJKT (Network & Infrastructure)</h3>
-        <p><i>Managing servers and connections</i></p>
-        <p><i>Stack badges are currently being updated by the community.</i></p>
+        <p><i>Managing the backbone of digital communication.</i></p>
+        <p><i>Stack badges sedang diperbarui oleh komunitas.</i></p>
       </td>
     </tr>
   </table>
@@ -63,7 +69,28 @@ Meskipun bermula dari sebuah inisiasi personal, ekosistem ini dibangun untuk men
 
 <br/>
 
+## Organization Stats
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/SMKN1-Tenggarong?base=header,repositories,metadata&config_timezone=Asia/Makassar" alt="Org Stats" />
+</div>
+
+<br/>
+
+## Featured Projects
+
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| **School Portal** | In Development | CMS modern untuk portal informasi sekolah. |
+
+*Lebih banyak proyek inovatif akan segera hadir seiring dengan perkembangan kolaborasi kami.*
+
+<br/>
+
 ## Visi & Misi Sekolah
+
+<details>
+<summary><b>Klik untuk melihat Visi & Misi Lengkap</b></summary>
 
 ### Visi
 > "Terwujudnya Pusat Pendidikan Dan Pelatihan Kejuruan Yang Unggul Dalam IMTAQ Dan IPTEK, Berkompeten, Berwawasan Lingkungan Hidup Serta Mendukung Program Pendidikan Inklusi."
@@ -78,39 +105,32 @@ Meskipun bermula dari sebuah inisiasi personal, ekosistem ini dibangun untuk men
 | **Kompetensi** | Membekali keterampilan teknologi untuk masuk IDUKA atau studi lanjut. |
 | **Lulusan** | Mencetak lulusan yang jujur, kompetitif, dan berjiwa nasionalisme. |
 | **TIK** | Mengoptimalkan TIK sebagai sarana pembelajaran yang efektif. |
-| **Lingkungan** | Membangun komitmen cinta alam dan pelestarian lingkungan hidup. |
-| **Sosial** | Menciptakan pola tingkah laku yang baik terhadap lingkungan sekitar. |
 | **Inklusi** | Menjadi pusat pendidikan yang ramah terhadap Anak Berkebutuhan Khusus. |
 
-<br/>
-
-## Fokus Proyek
-
-Kami fokus pada pengembangan solusi digital yang relevan dengan kebutuhan sekolah:
-
-- **School Portal**: Pengembangan CMS untuk akses informasi terpadu.
-- **Efficiency Tools**: Sistem absensi dan manajemen aset berbasis web.
-- **Dev Resources**: Dokumentasi dan script automasi untuk praktik laboratorium.
+</details>
 
 <br/>
 
 ## Kontribusi Siswa
 
-Kami mengundang seluruh siswa aktif dan alumni untuk bergabung:
-1. **Explore**: Temukan repositori yang menarik minat Anda.
-2. **Commit**: Berikan kontribusi terbaik Anda (fitur, bug fix, atau dokumentasi).
-3. **Grow**: Belajar bersama dalam standar profesional industri.
+Bergabunglah dalam perjalanan digital ini!
+1. **Fork & Clone**: Ambil project yang ingin kamu kembangkan.
+2. **Feature Branch**: Buat branch baru untuk setiap fitur/perbaikan.
+3. **Pull Request**: Ajukan perubahanmu untuk di-review oleh pembimbing/senior.
 
 <br/>
 
-## Hubungi Kami
+## Connect with Us
 
-- **Alamat**: Jl. KH. Ahmad Dahlan No. 49, Kelurahan Baru, Tenggarong.
-- **Email**: admin@smkn1tenggarong.sch.id
-- **Website**: [smkn1tenggarong.sch.id](http://smkn1tenggarong.sch.id)
+- Email: admin@smkn1tenggarong.sch.id
+- Web: [smkn1tenggarong.sch.id](http://smkn1tenggarong.sch.id)
+- Maps: [SMK Negeri 1 Tenggarong](https://goo.gl/maps/smkn1tenggarong)
 
-<br/>
+---
 
 <div align="center">
-  <p><i>Founded and Created by <b><a href="https://github.com/leapwithluvi">Luvi Aprilyansyah Gabriel</a></b></i></p>
+  <p><i>Maintained with heart by the students of SMKN 1 Tenggarong</i></p>
+  <p><b>Founded by <a href="https://github.com/leapwithluvi">Luvi Aprilyansyah Gabriel</a></b></p>
 </div>
+
+
